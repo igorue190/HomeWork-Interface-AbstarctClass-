@@ -1,0 +1,1 @@
+# HomeWork-Interface-AbstarctClass-
