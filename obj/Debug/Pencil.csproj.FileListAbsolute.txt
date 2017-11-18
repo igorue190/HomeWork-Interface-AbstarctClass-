@@ -1,0 +1,6 @@
+c:\users\пк\documents\visual studio 2013\Projects\Pencil\Pencil\bin\Debug\Pencil.exe.config
+c:\users\пк\documents\visual studio 2013\Projects\Pencil\Pencil\obj\Debug\Pencil.csprojResolveAssemblyReference.cache
+c:\users\пк\documents\visual studio 2013\Projects\Pencil\Pencil\bin\Debug\Pencil.exe
+c:\users\пк\documents\visual studio 2013\Projects\Pencil\Pencil\bin\Debug\Pencil.pdb
+c:\users\пк\documents\visual studio 2013\Projects\Pencil\Pencil\obj\Debug\Pencil.exe
+c:\users\пк\documents\visual studio 2013\Projects\Pencil\Pencil\obj\Debug\Pencil.pdb
