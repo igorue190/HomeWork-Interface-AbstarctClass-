@@ -8,7 +8,7 @@ namespace Pencil
 {
     abstract class BasePencilRepository
     {
-        public abstract Pencil Get(int index);
+        public abstract Pencil Get(int pencilId);
 
         public abstract void Add(Pencil pencil);
 
