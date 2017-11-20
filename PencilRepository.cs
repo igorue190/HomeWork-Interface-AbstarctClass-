@@ -37,12 +37,9 @@ namespace Pencil
             } 
         }
 
-        public override Pencil Get(int index)
+        public override Pencil Get(int pencilId)
         {
-            if (index >= 0 && index <= _pencils.Length)
-                return _pencils[index];
-            else
-                throw new ArgumentOutOfRangeException("index", "Index out of range");              
+            return _pencils.FirstOrDefault(x => x.PencilId == pencilId);             
         }
 
         public override void Add(Pencil pencil)
